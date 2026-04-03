@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  Студент и начинающий devops из России<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
+  Студент и SRE из России<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
 </p>
 <p align="center">
   
