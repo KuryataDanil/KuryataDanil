@@ -13,8 +13,8 @@
 - 🔭 Знаю python и golang
 - 🌱 Владею интрументами для IaaC (ansbile и terraform)
 - 💻 Умею собирать метрики с помощью prometheus и визуализировать их в grafana
-- ⚡ Студент ЮФУ МехМат
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-danil-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/danissemo0)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danil.17.4.2004@gmail.com)
+- ⚡ Студент ЦУ
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-danil-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/danildano)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kuryatadanil@gmail.com)
 
 ---
 
