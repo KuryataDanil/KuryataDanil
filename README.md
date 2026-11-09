@@ -9,7 +9,7 @@
 </p>
 
 - 🔭 Currently working as an SRE Engineer at T-Bank
-- ⚙️ Working with infrastructure for 2,000+ VMs and Kubernetes environments <a href="https://sadservers.com/accounts/dashboard?utm_source=chatgpt.com"><img src="https://img.shields.io/badge/SadServers-Master-FF6D00?style=flat-square&labelColor=FFC400&logo=kubernetes&logoColor=1A237E&logoSize=auto" alt="SadServers Level"/></a>
+- ⚙️ Working with infrastructure for 2,000+ VMs and Kubernetes environments
 - 🐍 Writing automation tools with Python, Go and Ansible
 - ☸️ Working with Kubernetes, Docker, Helm and Infrastructure as Code
 - 📊 Building monitoring and observability solutions with Prometheus and Grafana
